@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-18T00:00:45 CET" name="Default suite" finished-at="2022-01-18T00:00:51 CET" duration-ms="6100">
+    <groups>
+    </groups>
+    <test started-at="2022-01-18T00:00:45 CET" name="Default test" finished-at="2022-01-18T00:00:51 CET" duration-ms="6100">
+      <class name="Demo.TestRestAssured">
+        <test-method is-config="true" signature="BeforeTest_test()[pri:0, instance:Demo.TestRestAssured@48974e45]" started-at="2022-01-18T00:00:45 CET" name="BeforeTest_test" finished-at="2022-01-18T00:00:46 CET" duration-ms="1238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest_test -->
+        <test-method signature="Get_test()[pri:1, instance:Demo.TestRestAssured@48974e45]" started-at="2022-01-18T00:00:46 CET" name="Get_test" finished-at="2022-01-18T00:00:50 CET" duration-ms="4174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Get_test -->
+        <test-method signature="Post_test()[pri:2, instance:Demo.TestRestAssured@48974e45]" started-at="2022-01-18T00:00:50 CET" name="Post_test" finished-at="2022-01-18T00:00:51 CET" duration-ms="279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Post_test -->
+        <test-method signature="Put_test()[pri:3, instance:Demo.TestRestAssured@48974e45]" started-at="2022-01-18T00:00:51 CET" name="Put_test" finished-at="2022-01-18T00:00:51 CET" duration-ms="180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Put_test -->
+        <test-method signature="Delete_test()[pri:4, instance:Demo.TestRestAssured@48974e45]" started-at="2022-01-18T00:00:51 CET" name="Delete_test" finished-at="2022-01-18T00:00:51 CET" duration-ms="156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Delete_test -->
+        <test-method is-config="true" signature="AfterTest_test()[pri:0, instance:Demo.TestRestAssured@48974e45]" started-at="2022-01-18T00:00:51 CET" name="AfterTest_test" finished-at="2022-01-18T00:00:51 CET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest_test -->
+      </class> <!-- Demo.TestRestAssured -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
