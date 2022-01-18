@@ -19,6 +19,7 @@ import org.hamcrest.Matchers.*;
 public class TestRestAssured {
 
 	String first_name;
+	
 
 	String last_name;
 
